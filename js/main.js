@@ -80,7 +80,7 @@ $('a[href*="#"]')
   });
   
   function toggleDetail1(){
-      
+        
           $("#product-1").toggleClass("visible-item");
           $(".main-container .marketing .col-lg-2 a i").toggleClass("active");
   }
@@ -99,3 +99,4 @@ $('a[href*="#"]')
           $("#product-1").toggleClass("visible-item");
           $(".main-container .marketing .col-lg-2 a i").toggleClass("active");
   }
+  
